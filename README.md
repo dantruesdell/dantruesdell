@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dantruesdell
+I write C/C++/Java/Javascript/python/lua/assembler(s)...
+I've been doing software for 50 years
